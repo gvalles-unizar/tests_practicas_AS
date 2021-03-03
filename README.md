@@ -22,7 +22,7 @@ Pexpect se puede instalar con [pip](https://pypi.org/project/pip/) ejecutando el
 Los tests se encuentran dentro de un repositorio git y se pueden
 descargar/clonar utilizando el comando:
 
-    as@as0:~/git clone https://gitlab.unizar.es/dario/as_tests_practicas.git
+    as@as0:~/git clone https://github.com/gvalles-unizar/tests_practicas_AS
 
 Al terminar la operación se crearán múltiples directorio con todos los tests y
 una carpeta para las prácticas 2, 3 y 4 con los ficheros vacíos que hay que
@@ -114,5 +114,4 @@ parte donde ha ocurrido el error.
 
 ## Contacto
 
-Para cualquier sugerencia de mejora, fallo, ... por favor contactar con Darío
-Suárez Gracia, dario@unizar.es o @dario
+Para cualquier sugerencia por favor contactar con gvalles@unizar.es
